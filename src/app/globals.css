@@ -11,4 +11,7 @@ html {
   background-image: url("../../public/bg.jpg");
 }
 
+.sm-screen{
+  height: 150vh;
+}
 
