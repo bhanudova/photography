@@ -8,4 +8,6 @@ html{
 }
 .custom-img{
   background-image: url("../../public/bg.jpg");
+    height: 100vh;
+
 }
